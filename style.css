@@ -1,0 +1,10 @@
+body{
+    font-family: fantasy;
+    color:dimgray;
+    font-size: x-large;
+
+}
+
+#result1, #result2, #result3{
+    border: 2px, dashed, black;
+}
